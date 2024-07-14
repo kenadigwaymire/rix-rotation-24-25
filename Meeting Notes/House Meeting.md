@@ -15,11 +15,11 @@ We have 1 fucking week for rotation?!?! (starts and ends on wed.)
 - Apathy skit sucked
 - rocky horror was lackluster
 ### Roscoes
-Class action lawsuit closed it down
+Class action lawsuit closed it down [[roscoes complaint.pdf]]
 ##### Alternatives
 - Chucke Cheese / Dave n busters
 - Olive garden
 - Ihop / dennys
 ### Open Mic Night
-- mainly more professional students and then karaoke   for prefrosh
+- mainly more professional students and then karaoke for prefrosh
 - see if we can do 5 hours
