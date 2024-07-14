@@ -1,0 +1,315 @@
+{
+  "main": {
+    "id": "2353019f83cbb2c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "aca56cc33ce2fd5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a17eeb1efebab69",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "41605884481e9c5f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "78460fbe6653dfed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c3f85dfa8746235",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
+            "id": "d786e01c3d648c0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meeting Notes/House Meeting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "039395467ad6f787",
+    "type": "split",
+    "children": [
+      {
+        "id": "c74b711d27240b5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b28d76607c00fcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abe457acd2985005",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9249df761d421d05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b1bc148c22de512f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcddb753c0649985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2db2e0acb9395ff8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Meeting Notes/House Meeting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd354653a4b0b9a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Meeting Notes/House Meeting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "988eb971cd21167f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Meeting Notes/House Meeting.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5263760918089893,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "a82cf0a678dcdd27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7c32a9644a03729",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Meeting Notes/House Meeting.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "39a851367dd1c7c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "012615f9dd279b60",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Meeting Notes/House Meeting.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5263760918089893,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d786e01c3d648c0b",
+  "lastOpenFiles": [
+    "Pasted image 20240713175215.png",
+    "School/Ph 2b/Lectures/Lecture 1 - Intro to Quantum Mechanics - Ph 2b.md",
+    "School/ME 11/Lectures/Lecture 5 - ME11b.md",
+    "School/ME 11/Lectures/Lecture 4 - ME11b.md",
+    "School/ME 11/Lectures/Lecture 1 to 3 - ME 11b.md",
+    "School/ME 11/attachments/Week 1 - ME 11b - R-134a Table.png",
+    "School/ME 11/attachments/Pasted Image 20240112145337_039.png",
+    "Rotation 1.md",
+    "Extracurriculars/Socvp",
+    "School/ACM 95/Lectures/Lecture 2 - ACM 95a.md",
+    "School/ACM 95/Lectures/Lecture 1 - ACM 95a.md",
+    "Extracurriculars/NASA BIG Idea 24/Interviewees/Otis.md",
+    "Extracurriculars/NASA BIG Idea 24/Interviewees/Elle Chen.md",
+    "School/ME 75b/Notes/1-30-24.md",
+    "Extracurriculars/NASA BIG Idea 24/Interviewees",
+    "Extracurriculars/NASA BIG Idea 24/Note.md",
+    "School/ME 75b/Notes/IMU Specs.md",
+    "School/ME 75b/Notes/Pisgah Crater Model.md",
+    "Extracurriculars/NASA BIG Idea 24/After Downselect/Untitled.md",
+    "School/ME 75b/Notes",
+    "Extracurriculars/NASA BIG Idea 24/Before Downselect/Leads Meeting 1-15-2024.md",
+    "Extracurriculars/NASA BIG Idea 24/After Downselect/CDR - BIG Idea 24.md",
+    "Extracurriculars/NASA BIG Idea 24/Before Downselect/Concept Review 12-20-2023.md",
+    "School/ME 75b/Lectures/Lecture 4 - ME75b.md",
+    "School/ME 12/attachments/Pasted image 20240118131903.png",
+    "School/ME 12/attachments/Pasted image 20240118140404.png",
+    "School/ME 12/Lectures/Lecture 5 - ME 12b.md",
+    "Excalidraw/Drawing 2024-01-18 13.53.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-18 13.20.36.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-18 13.19.11.excalidraw.md",
+    "School/ME 12/Lectures/Lecture 3 - Nonlinearities in Bending - ME 12b.md",
+    "School/ME 12/Lectures/Lecture 4 - ME12b.md",
+    "School/ME 12/Lectures/Lecture 2 - ME 12b.md",
+    "Extracurriculars/NASA BIG Idea 24/After Downselect",
+    "School/ME 75b/Team Meetings",
+    "Week 1 - ME 11b - real case.png",
+    "Week 1 - ME 11b - Lindehampson.png",
+    "Week 1 - ME 11b - 2 stages.png",
+    "Pasted Image 20240112145337_039.png",
+    "Pasted Image 20240112145019_221.png",
+    "School/ME 11/attachments/Week 1 - ME 11b - 2 stages.png",
+    "Calendar",
+    "School/ME 12/attachments",
+    "Excalidraw",
+    "School/Ph 2b/attachments",
+    "School/Ph 2b/Lectures",
+    "Untitled.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}
