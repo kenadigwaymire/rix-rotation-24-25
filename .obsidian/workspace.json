@@ -250,6 +250,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
