@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning Event Dates 7-25-24.md",
+                "file": "Meeting Notes/Planning Event Dates.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning Event Dates 7-25-24.md",
+                "file": "Meeting Notes/Planning Event Dates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning Event Dates 7-25-24.md",
+                "file": "Meeting Notes/Planning Event Dates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Planning Event Dates 7-25-24.md",
+                "file": "Meeting Notes/Planning Event Dates.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning Event Dates 7-25-24.md"
+                "file": "Meeting Notes/Planning Event Dates.md"
               }
             }
           }
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Planning Event Dates 7-25-24.md",
+                "file": "Meeting Notes/Planning Event Dates.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,8 +277,9 @@
   "active": "982a1bb3fb849cb7",
   "lastOpenFiles": [
     "Meeting Notes/House Meeting.md",
-    "Planning Event Dates 7-25-24.md",
     "Meeting Notes/roscoes complaint.pdf",
+    "Meeting Notes/Planning Event Dates.md",
+    "README.md",
     "Pasted image 20240713175215.png",
     "School/Ph 2b/Lectures/Lecture 1 - Intro to Quantum Mechanics - Ph 2b.md",
     "School/ME 11/Lectures/Lecture 5 - ME11b.md",
@@ -309,8 +310,6 @@
     "Excalidraw/Drawing 2024-01-18 13.53.35.excalidraw.md",
     "Excalidraw/Drawing 2024-01-18 13.20.36.excalidraw.md",
     "Excalidraw/Drawing 2024-01-18 13.19.11.excalidraw.md",
-    "School/ME 12/Lectures/Lecture 3 - Nonlinearities in Bending - ME 12b.md",
-    "School/ME 12/Lectures/Lecture 4 - ME12b.md",
     "Extracurriculars/NASA BIG Idea 24/After Downselect",
     "School/ME 75b/Team Meetings",
     "Week 1 - ME 11b - real case.png",
