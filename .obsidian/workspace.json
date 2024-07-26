@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "982a1bb3fb849cb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planning Event Dates 7-25-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/House Meeting.md",
+                "file": "Planning Event Dates 7-25-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting Notes/House Meeting.md",
+                "file": "Planning Event Dates 7-25-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Meeting Notes/House Meeting.md",
+                "file": "Planning Event Dates 7-25-24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeting Notes/House Meeting.md"
+                "file": "Planning Event Dates 7-25-24.md"
               }
             }
           }
@@ -212,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Meeting Notes/House Meeting.md",
+                "file": "Planning Event Dates 7-25-24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,10 +274,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d786e01c3d648c0b",
+  "active": "982a1bb3fb849cb7",
   "lastOpenFiles": [
-    "Meeting Notes/roscoes complaint.pdf",
     "Meeting Notes/House Meeting.md",
+    "Planning Event Dates 7-25-24.md",
+    "Meeting Notes/roscoes complaint.pdf",
     "Pasted image 20240713175215.png",
     "School/Ph 2b/Lectures/Lecture 1 - Intro to Quantum Mechanics - Ph 2b.md",
     "School/ME 11/Lectures/Lecture 5 - ME11b.md",
